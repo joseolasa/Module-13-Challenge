@@ -53,6 +53,8 @@ Epochs: 50
 
 ## Results
 Model 1: accuracy 0.7304956316947937
+
 Model 2: accuracy 0.7290962338447571
+
 Model 3: accuracy 0.7301457524299622
 
